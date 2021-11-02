@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.shopcss {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: separate;
+    border-width: 2px;
+    border-color: #f0f1ff;
+    border-style: solid;
+    color: #000000;
+  }
+  
+  .shopcss td, table.shopcss th {
+    border-width: 2px;
+    border-color: #f0f1ff;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  .shopcss thead {
+    background-color: #c6e4e4;
+  }
