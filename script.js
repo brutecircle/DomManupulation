@@ -6,3 +6,10 @@ h1.innerHTML = "Super Shop";
 function bodyColour(color) {
     document.body.style.background = color;
 }
+
+// adding img ,titte ,description ,and price
+function add_img() { 
+	const img = document.createElement('img'); 
+    img.src = 'https://amzn.to/31oJwLj'; 
+	document.getElementById('product1').appendChild(img);
+}
